@@ -1,4 +1,3 @@
-// Charles M. Heater
 // Febuary 4th, 2025
 // Lab section 004
 // Lab 4
